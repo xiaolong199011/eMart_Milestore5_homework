@@ -75,7 +75,7 @@
         <collectionProp name="HeaderManager.headers">
           <elementProp name="" elementType="Header">
             <stringProp name="Header.name">token</stringProp>
-            <stringProp name="Header.value">1</stringProp>
+            <stringProp name="Header.value">eyJhbGciOiJIUzUxMiJ9.eyJnZW5lcmF0ZVRpbWUiOjE1OTE4NjM2MDYyNjEsImV4cCI6MTU5MTg2MzY2MCwidXNlcm5hbWUiOiJtYSJ9.uYlNjGTvxPnXLr0XuQ2CzvsRruOKX3SZeiJdrbA4TJkZLgVPtw5-a602pUO0y1Ulfs7NWX03YWRLxqDe61S0wg</stringProp>
           </elementProp>
         </collectionProp>
       </HeaderManager>
